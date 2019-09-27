@@ -1,6 +1,6 @@
 # hyper-pop-n-lock
 
-![](demo.png)
+![](pnl-demo.png)
 
 ## Install
 

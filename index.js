@@ -40,15 +40,6 @@ const cursorColor = lightRed;
 const selectionColor = '#1D2547';
 const linkColor = secondaryColor;
 
-/**
- * Tabs
- */
-
-const inactiveTabBackgroundColor = '#242424';
-const activeTabBorderColor = primaryColor;
-const activeTabColor = primaryColor;
-const dividerColor = 'rgba(157, 165, 180, 0.25)';
-
 exports.decorateConfig = (config) => {
 	return Object.assign({}, config, {
 		backgroundColor,

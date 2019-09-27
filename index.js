@@ -4,7 +4,7 @@
  * Colors
  */
 
-const black = '#1d2021';
+const black = '#202137';
 const red = '#cc241d';
 const green = '#98971a';
 const yellow = '#d79921';
@@ -49,7 +49,7 @@ const activeTabBorderColor = primaryColor;
 const activeTabColor = primaryColor;
 const dividerColor = 'rgba(157, 165, 180, 0.25)';
 
-exports.decorateConfig = config => {
+exports.decorateConfig = (config) => {
 	return Object.assign({}, config, {
 		backgroundColor,
 		foregroundColor,

@@ -1,4 +1,6 @@
-# hyper-popping-and-locking
+# hyper-pop-n-lock
+
+![](demo.png)
 
 ## Install
 

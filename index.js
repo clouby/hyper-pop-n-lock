@@ -4,7 +4,7 @@
  * Colors
  */
 
-const black = '#202137';
+const black = '#1D1C2F';
 const red = '#cc241d';
 const green = '#98971a';
 const yellow = '#d79921';
@@ -33,11 +33,11 @@ const secondaryColor = '#f2e5bc';
  * General
  */
 
-const backgroundColor = '#21222d';
+const backgroundColor = '#202137';
 const foregroundColor = '#f2e5bc';
-const borderColor = '#272836';
+const borderColor = '#1D2547';
 const cursorColor = lightRed;
-const selectionColor = '#272836';
+const selectionColor = '#1D2547';
 const linkColor = secondaryColor;
 
 /**
